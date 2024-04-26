@@ -10,3 +10,9 @@ def test_login_negative():
     # open pgae
     # enter creds
     # check message
+
+def test_login_negative2():
+    pass
+    # open pgae
+    # enter creds
+    # check message
